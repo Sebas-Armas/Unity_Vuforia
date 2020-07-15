@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="K_Diamantes" size="10.000000 16.722277" />
+    <ImageTarget name="K_Cor_Rojo" size="10.000000 16.404270" />
+    <ImageTarget name="K_Cor_Negro" size="10.000000 16.240601" />
+    <ImageTarget name="As_trebol" size="10.000000 13.729508" />
+  </Tracking>
+</QCARConfig>
